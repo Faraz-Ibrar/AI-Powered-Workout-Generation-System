@@ -56,7 +56,7 @@ AI-Workout-System/
 - **Node.js** (v14 or higher) - [Download here](https://nodejs.org/)
 - **Python** (v3.8 or higher) - [Download here](https://python.org/)
 - **MongoDB** (local installation or MongoDB Atlas) - [Download here](https://mongodb.com/)
-- **npm** or **yarn** package manager (comes with Node.js)
+- **npm** package manager (comes with Node.js)
 - **Git** for version control
 
 ### Complete Installation Guide
