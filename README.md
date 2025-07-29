@@ -1,9 +1,5 @@
 # AI-Powered Workout Plan Generation System
 
-## Group Members
-- **Faraz Ibrar** (Student ID: 221327)  
-- **Amir Hamza** (Student ID: 221318)  
-
 ## Project Summary
 
 This project is an AI-powered workout plan generation system designed to create personalized fitness regimens tailored to individual user profiles. The system intelligently considers multiple factors including:
@@ -393,11 +389,6 @@ This AI-driven approach ensures users receive scientifically-optimized, personal
 - `POST /api/users/profile` - Create/update user profile
 - `GET /api/users/profile/:id` - Retrieve user profile
 - `POST /api/users/generate-workout` - Generate AI workout plan
-
-
-## License
-
-This project is developed as part of an academic assignment. All rights reserved by the project contributors.
 
 ---
 
